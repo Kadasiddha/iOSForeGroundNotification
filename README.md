@@ -18,6 +18,9 @@ For showing foreground notification you have make changes in your AppDelegate fi
 
 # Video
 
+![iosforegroundnotification](https://cloud.githubusercontent.com/assets/8743597/9983875/be90dcd6-6029-11e5-9f3e-b5fb4e9d34d9.gif)
+
+
 # Contact
 
 Email : kadasiddha@gmail.com
