@@ -14,6 +14,8 @@ For showing foreground notification you have make changes in your AppDelegate fi
 
 # Image
 
+<img width="374" alt="screen shot 2015-09-21 at 5 54 33 am" src="https://cloud.githubusercontent.com/assets/8743597/9983724/bce462d0-6025-11e5-9887-71505132c238.png">
+
 # Video
 
 # Contact
